@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  LocalizationManager
+
+  Created by Mehsam Saeed on 13/10/2023.
+  
+*/
+"Password can't be empty" = "Password can't be empty";
